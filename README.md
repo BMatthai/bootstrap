@@ -1,3 +1,5 @@
+**Custom fork to fit my needs. I need to make bootstrap 3.4.1 working with AngularJS 1.8.3 (replacing success/error by then/catch callbacks. I don't guarantee this will fully work, but it's enough in my case).**
+
 <p align="center">
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
